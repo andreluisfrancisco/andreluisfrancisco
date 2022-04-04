@@ -10,4 +10,4 @@ DevOps Cloud Engineer.
 In progress work:
 - 👨🏾‍💻 Studying [devops tools](https://github.com/andreluisfrancisco/devops) 
 
-<a href="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"><img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="70" height="70" alt="Docker logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/docker"><img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="70" height="70" alt="Docker logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
