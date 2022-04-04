@@ -12,7 +12,7 @@ In progress work:
 
 <a href="https://github.com/aws"><img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" width="70" height="70" alt="AWS logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/debian"><img src="https://avatars.githubusercontent.com/u/1854028?s=200&v=4" width="70" height="70" alt="Debian logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/docker"><img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="70" height="70" alt="Docker logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/python"><img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" width="70" height="70" alt="Python logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/hashicorp"><img src="https://avatars.githubusercontent.com/u/761456?s=200&v=4" width="70" height="70" alt="Hashcorp logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ansible"><img src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" width="70" height="70" alt="Ansible logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/kubernetes"><img src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" width="70" height="70" alt="Kubernetes logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
