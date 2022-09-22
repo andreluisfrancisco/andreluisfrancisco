@@ -4,13 +4,14 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andreluis)](https://twitter.com/andreluis)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreluisfrancisco/)](https://www.linkedin.com/in/andreluisfrancisco/)
 
-DevOps Cloud Engineer. 
+Business Intelligence Analyst
 
 
 In progress work:
-- 👨🏾‍💻 Studying [devops tools](https://github.com/andreluisfrancisco/devops) 
+- 👨🏾‍💻 Studying [data architecture](https://github.com/andreluisfrancisco/devops) 
 
-<a href="https://github.com/aws"><img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" width="70" height="70" alt="AWS logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/debian"><img src="https://avatars.githubusercontent.com/u/1854028?s=200&v=4" width="70" height="70" alt="Debian logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/python"><img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" width="70" height="70" alt="Python logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ansible"><img src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" width="70" height="70" alt="Ansible logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Interest-Data Architecture-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
