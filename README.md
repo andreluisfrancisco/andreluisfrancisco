@@ -2,7 +2,7 @@
 
 Business Intelligence Analyst
 
-:rocket: In progress work: [data architecture]
+:rocket: In progress work: Data Architecture
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
