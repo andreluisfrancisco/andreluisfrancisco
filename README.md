@@ -6,9 +6,7 @@
 
 Business Intelligence Analyst
 
-
-In progress work:
-:rocket: Studying [data architecture](https://github.com/andreluisfrancisco/devops) 
+:rocket: In progress work: [data architecture](https://github.com/andreluisfrancisco/devops) 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
