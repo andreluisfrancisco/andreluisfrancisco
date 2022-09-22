@@ -1,6 +1,4 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 
 [![YouTube Badge](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&labelColor=c14438&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCA8MwBY1VYGTQvciS0lmEwA)](https://www.youtube.com/channel/UCA8MwBY1VYGTQvciS0lmEwA)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andreluis)](https://twitter.com/andreluis)
