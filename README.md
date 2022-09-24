@@ -2,10 +2,7 @@
 
 Analista de Business Intelligence
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BI-QlikSense-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-</br>
 ![](https://img.shields.io/badge/Data-SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ETL-Pentaho-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Interest-DataArchitecture-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
