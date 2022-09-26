@@ -6,19 +6,7 @@ Hi there. My name is André Luis, I am a certified IT professional with several 
 
 Working experience:
 
-I have worked for clients within the Food, Military and Aeronautic sector, and have been involved in the roll-out of Business Intelligence and Data Warehouse projects and the implementation of BI solutions and Data Visualization. 
-
-My knowledges :
-
-- C#, Python, VBA, Microsoft Excel
-
-- Business Intelligence and Reporting
-
-- ETL: Extract, Transform, Load and Automation
-
-- Data Visualization: Power BI, Qlikview/Qliksense
-
-- Databases/DWH: Microsoft SQL Server, Oracle, MongoDB
+I have worked for clients within the Food, Military and Aeronautic sector, and have been involved in the roll-out of Data Warehouse projects and the implementation of ETL, Business Intelligence solutions and Data Visualization/Reporting. 
 
 ![](https://img.shields.io/badge/Code-Python|CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-MongoDB|SQLServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
