@@ -16,7 +16,7 @@ My knowledges :
 
 - ETL: Extract, Transform, Load and Automation
 
-- Data Visualization: Powe BI, Qliksense
+- Data Visualization: Power BI, Qlikview/Qliksense
 
 - Databases/DWH: Microsoft SQL Server, Oracle, MongoDB
 
