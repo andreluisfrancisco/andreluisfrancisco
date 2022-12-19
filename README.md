@@ -8,7 +8,7 @@ Working experience:
 
 I have worked for clients within the Food, Military and Aeronautic sector, and have been involved in the roll-out of Data Warehouse projects, implementation of ETL, Data Driven, Business Intelligence solutions and Data Visualization/Reporting. 
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python|C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-Oracle|SQLServer|Postgres-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BI-QlikSense|PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ETL-Pentaho-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
