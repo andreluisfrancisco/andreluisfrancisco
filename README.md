@@ -9,7 +9,6 @@ Professional experience: I have worked for clients in the food, military and aer
 ![](https://img.shields.io/badge/Code-.NET|Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-SQLServer|PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BI-QlikSense|PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ETL-Pentaho-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Automation-ShellScript|PowerShell-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS|Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
