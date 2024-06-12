@@ -2,7 +2,7 @@
 
 💻 About Me
 
-Hi there, my name is André Luis, I am a certified IT professional with several years of experience working as an analyst and developer, mainly in backend application development. 
+Hi there, my name is André Luis, I am a certified IT professional with several years of experience working as an analyst and developer, mainly in backend application development and database administration. 
 
 Professional experience: I have worked for clients in the food, military and aeronautical sectors, and have been involved in several projects, from requirements analysis to roll-out.
 
