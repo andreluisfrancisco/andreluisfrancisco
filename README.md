@@ -6,7 +6,7 @@ Hi there, my name is André Luis, I am a certified IT professional with several 
 
 Professional experience: I have worked for clients in the food, military and aeronautical sectors, and have been involved in several projects, from requirements analysis to roll-out.
 
-![](https://img.shields.io/badge/Code-.NET|Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-SQLServer|PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BI-QlikSense|PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Automation-ShellScript|PowerShell-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
