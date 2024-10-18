@@ -1,10 +1,10 @@
 
 
-💻 About Me
+:ninja: Sobre mim
+Sou formado em Sistemas de Informação pela UNIP e pós graduado em Administração de Banco de Dados pela Universidade Metropolitana. Possuo 20 anos de experiência em desenvolvimento de sistemas e automação de processos.
 
-Hi there, my name is André Luis, I am a certified IT professional with several years of experience working as an analyst and developer, mainly in backend application development and database administration. 
-
-Professional experience: I have worked for clients in the food, military and aeronautical sectors, and have been involved in several projects, from requirements analysis to roll-out.
+:desktop_computer: Experiência profissional
+Trabalhei para clientes nos setores alimentício, militar e aeronáutico, e estive envolvido em vários projetos, desde a análise de requisitos até a implementação.
 
 ![](https://img.shields.io/badge/Code-Python|Node.Js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-PostgreSQL|MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
