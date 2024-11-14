@@ -4,7 +4,7 @@
 Sou formado em Sistemas de Informação pela UNIP e pós graduado em Administração de Banco de Dados pela Universidade Metropolitana. Possuo 20 anos de experiência em desenvolvimento de sistemas e automação de processos.
 
 :desktop_computer: Experiência profissional<br>
-Trabalhei para clientes nos setores alimentício, militar e aeronáutico, e estive envolvido em vários projetos, desde a análise de requisitos até a implementação.
+Trabalhei para clientes nos setores alimentício, militar, aeronáutico e geoprocessamento, onde estive envolvido em vários projetos, desde a análise de requisitos até a implementação.
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
