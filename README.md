@@ -6,7 +6,8 @@ Sou formado em Sistemas de Informação pela UNIP e pós graduado em Administra�
 :desktop_computer: Experiência profissional<br>
 Trabalhei para clientes nos setores alimentício, militar, aeronáutico e geoprocessamento, onde estive envolvido em vários projetos, desde a análise de requisitos até a implementação.
 
-![](https://img.shields.io/badge/Code-Python|C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/|Frontend-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Automation-ShellScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
